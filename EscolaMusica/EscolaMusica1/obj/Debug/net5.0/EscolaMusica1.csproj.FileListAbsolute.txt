@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.exe
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.deps.json
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.dll
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\ref\EscolaMusica1.dll
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\bin\Debug\net5.0\EscolaMusica1.pdb
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.dll
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\ref\EscolaMusica1.dll
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.pdb
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\ProjetoEscoladeMusica\EscolaMusica\EscolaMusica1\obj\Debug\net5.0\EscolaMusica1.genruntimeconfig.cache
